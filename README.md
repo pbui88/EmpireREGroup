@@ -8,7 +8,7 @@
 
 A modern, fully responsive real estate lead generation website built for Empire Real Estate Group, a wholesale real estate investment company operating in New Jersey. This project demonstrates professional web development practices, regulatory compliance implementation, and conversion-optimized design.
 
-**Live Demo:** [empirerealestategroup.com](https://empirerealestategroup.com)
+**Live Demo:** [https://eregsolutions.com](https://eregsolutions.com)
 
 ---
 
